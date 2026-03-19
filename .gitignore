@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node (if frontend exists)
+node_modules/
+
+# OS junk
+.DS_Store
+Thumbs.db
