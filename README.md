@@ -4,16 +4,27 @@ An AI-powered system that analyzes research papers and allows users to ask quest
 
 ---
 
+## 📸 Application Preview
+
+<img width="1890" height="755" alt="image" src="https://github.com/user-attachments/assets/47fde3c6-31d6-4334-8941-f3709d6a18a3" />
+
+<img width="1857" height="642" alt="image" src="https://github.com/user-attachments/assets/2954ef07-7cd2-47b3-87d5-ccc5b52e2013" />
+
+<img width="1837" height="586" alt="image" src="https://github.com/user-attachments/assets/7cb285d9-bf0a-483c-9976-17831b199eac" />
+
+
+
+
 ## 🚀 Features
 
-* 📄 Upload one or multiple research papers (PDF)
-* 🧹 Automatic text cleaning and preprocessing
-* ✂️ Intelligent document chunking
-* 🔍 Semantic search using **FAISS**
-* 🤖 RAG-based chatbot for answering questions
-* 📊 AI-generated research summaries
-* 📌 Answers grounded with **source paragraphs from papers**
-* 🌐 Interactive UI built with **Streamlit**
+*  Upload one or multiple research papers (PDF)
+*  Automatic text cleaning and preprocessing
+*  Intelligent document chunking
+*  Semantic search using **FAISS**
+*  RAG-based chatbot for answering questions
+*  AI-generated research summaries
+*  Answers grounded with **source paragraphs from papers**
+*  Interactive UI built with **Streamlit**
 
 ---
 
@@ -74,14 +85,14 @@ An AI-powered system that analyzes research papers and allows users to ask quest
 
 ## 🚀 Features
 
-* 📄 Upload one or multiple research papers (PDF)
-* 🧹 Automatic text cleaning and preprocessing
-* ✂️ Intelligent document chunking
-* 🔍 Semantic search using **FAISS**
-* 🤖 RAG-based chatbot for answering questions
-* 📊 AI-generated research summaries
-* 📌 Answers grounded with **source paragraphs from papers**
-* 🌐 Interactive UI built with **Streamlit**
+*  Upload one or multiple research papers (PDF)
+*  Automatic text cleaning and preprocessing
+*  Intelligent document chunking
+*  Semantic search using FAISS
+*  RAG-based chatbot for answering questions
+*  AI-generated research summaries
+*  Answers grounded with source paragraphs from papers
+*  Interactive UI built with Streamlit
 
 ---
 
@@ -270,3 +281,7 @@ data/                  # stored data
 ## ⭐ If you like this project
 
 Give it a star ⭐ on GitHub!
+
+
+
+
